@@ -1,7 +1,7 @@
 # 👌│ About Me
-`I'm a Java & JavaScript Developer! My alias is TheNeku, and I hail from Italy (IT). I have a deep passion for videogames, and over the past year, I’ve transitioned into Minecraft development. On this profile, you'll find some of my work.`
+`Sono uno sviluppatore Java e JavaScript! Il mio alias è TheNeku, e vengo dall'Italia (IT). Ho una grande passione per i videogiochi e, nell'ultimo anno, mi sono dedicato allo sviluppo di contenuti per Minecraft. Su questo profilo troverai alcuni dei miei lavori.`  
 
-💘 `If you'd like to reach out, you can contact me on Discord. My username: @theneku`
+💘 `Se vuoi metterti in contatto con me, puoi trovarmi su Discord. Il mio username è: @theneku`
 
-# 🌟│ My Development
-`Master Development is a project that started in 2024, dedicated to creating various types of software! Currently, we are focused on Minecraft development, but in the future, we may expand into Roblox Studio and even videogame development. If you'd like to support us, you can join our Minecraft server:` [McMaster](https://discord.mc-master.it)!
+# 🌟│ Il Mio Sviluppo  
+`Master Development è un progetto iniziato nel 2024, dedicato alla creazione di vari tipi di software/Plugin! Attualmente, ci concentriamo sullo sviluppo di contenuti per Minecraft, ma in futuro potremmo espanderci allo sviluppo di videogiochi. Se vuoi supportarci, unisciti al nostro server Minecraft:` [McMaster](https://discord.mc-master.it)!
