@@ -3,6 +3,7 @@
 Hey there! I’m a developer powered by coffee, chaos and an infinite loop of refactoring.  
 I'm the founder of **Akira Studios** (we build cool stuff™) and the proud architect behind **AtenaMC**, a Minecraft server where every plugin has trust issues… because I wrote them all from scratch.  
 Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life choice.
+
 ---
 
 ## 🧠 Who I Am (besides a dev with 100+ Chrome tabs open)
@@ -42,7 +43,7 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 
 ## 📬 Contact Me
 
-- 💬 Discord: `@NekuMangaka`
+- 💬 Discord: `@theneku`
 - 🐙 GitHub: You're here already, explorer
 - 📦 Projects: In progress... like everything else in dev life
 
