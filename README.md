@@ -1,8 +1,3 @@
-HAHA mitico 😂  
-Scratch merita sempre una citazione d’onore. E allora… ecco la **versione definitiva** con la **battuta su Scratch** reintegrata, stile pulito da GitHub, ironico ma solido — perfetto da mettere nella tua repo profilo:
-
----
-
 ```markdown
 
 # 👋 Yo! I'm Neku
@@ -59,6 +54,3 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 ```
 
 ---
-
-Ti piace così? Posso aggiungere se vuoi una sezione "Pinned Highlights" o un badge GitHub actions figo.  
-Oppure... pushalo senza pietà! 🚀
