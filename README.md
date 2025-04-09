@@ -1,78 +1,64 @@
+HAHA mitico 😂  
+Scratch merita sempre una citazione d’onore. E allora… ecco la **versione definitiva** con la **battuta su Scratch** reintegrata, stile pulito da GitHub, ironico ma solido — perfetto da mettere nella tua repo profilo:
+
+---
+
 ```markdown
-<h1 align="center">🧑‍💻 Neku — Just another obsessed developer</h1>
-<h3 align="center">Java enjoyer • Python tamer • C* explorer • Plugin hoarder</h3>
 
----
+# 👋 Yo! I'm Neku
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=return+%22Hello%2C+World!%22;while(true)+code();404+Sleep+not+found;#define+Life+%22debuggable%22" />
-</p>
-
----
-
-## 🧠 Who am I (besides tired)?
-
-Hey there! I’m **Neku**, a developer powered by coffee, chaos and an infinite loop of refactoring.  
+Hey there! I’m a developer powered by coffee, chaos and an infinite loop of refactoring.  
 I'm the founder of **Akira Studios** (we build cool stuff™) and the proud architect behind **AtenaMC**, a Minecraft server where every plugin has trust issues… because I wrote them all from scratch.  
 Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life choice.
+---
+
+## 🧠 Who I Am (besides a dev with 100+ Chrome tabs open)
+
+- ☕ Java loyalist (we’ve had our ups and `NullPointerExceptions`, but we’re working through it)
+- 🐍 Python enthusiast (clean, readable, and doesn't yell at me — usually)
+- 🧠 Currently exploring C* (because I heard debugging segfaults builds character)
+- Builder of systems that sometimes work on the first try — and always have a config file
 
 ---
 
-## 💾 Tech Stack (a.k.a. the languages I yell at)
+## 🛠️ What I Do
 
-| Language | Relationship Status |
-|----------|----------------------|
-| ☕ Java   | Long-term commitment. We argue a lot, but I always come back. |
-| 🐍 Python | Therapy language. For when Java breaks my heart. |
-| 💀 C*     | “Just one pointer, what could go wrong?” – me, before the crash. |
-
-> 💬 Currently learning how to summon segfaults with style.
+- 🔧 Custom plugins and software (with a slight obsession for clean architecture)
+- 🧙 Discord bots that go beyond basic commands
+- 🌐 Scalable, localized systems with actual structure™
+- 🧪 Break things, fix them, and then pretend it was intentional
 
 ---
 
-## 🏗️ What I Actually Build
+## ⚙️ Tech I Argue With
 
-- Minecraft server systems (custom, crazy and cursed™)
-- Discord bots that do more than just `/ping`
-- Configurable, scalable, and localized (yes, even Klingon) software
-- Clean code... after five commits and a breakdown
+![Languages](https://skillicons.dev/icons?i=java,python,js,ts,html,css,mysql,sqlite,linux,git,github,vscode)
 
----
-
-## 🛠️ Projects
-
-| Project    | Description                          |
-|------------|--------------------------------------|
-| **Akira Studios** | Where I experiment with AI, bots, and systems that should probably be illegal |
-| **AtenaMC**       | A Minecraft server with way too much backend logic and zero Spigot plugins from 2016 |
+> Once built a whole system just to avoid using Essentials. Zero regrets.
 
 ---
 
-## 🧪 Fun facts
+## 🎯 Goals
 
-- I speak fluent **Stack Overflow**
-- My favorite IDE theme is **"It builds now, don’t touch it"**
-- I name variables like they're secret government projects
+- Write code that doesn’t scare future me
+- Actually understand C pointers without existential dread
+- Make dev tools that feel like cheating (but legal)
+- Keep learning, building, and occasionally yelling at compilers
 
 ---
 
-## 📫 Contact me (for praise, memes, or bug reports)
+## 📬 Contact Me
 
 - 💬 Discord: `@NekuMangaka`
-- 🐙 GitHub: You're already here. Just click around.
-- 📦 NPM (coming soon, maybe... eventually?)
+- 🐙 GitHub: You're here already, explorer
+- 📦 Projects: In progress... like everything else in dev life
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sqlite,mysql,git,github,linux,vscode" />
-</p>
-
----
-
-<p align="center">
-  <strong>“Behind every ‘works on my machine’... there’s a developer crying in prod.”</strong>
-</p>
+> _“I started with Scratch. Now I scratch my head reading C.”_
 ```
 
 ---
+
+Ti piace così? Posso aggiungere se vuoi una sezione "Pinned Highlights" o un badge GitHub actions figo.  
+Oppure... pushalo senza pietà! 🚀
