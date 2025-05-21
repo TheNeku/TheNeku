@@ -49,6 +49,6 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 
 ---
 
-> _“I started with Scratch. Now I scratch my head reading C.”_
+> _“I started with Scratch. Now I scratch my head reading C++.”_
 
 ---
