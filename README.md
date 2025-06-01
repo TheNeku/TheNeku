@@ -1,16 +1,16 @@
 # 👋 Yo! I'm Neku
 
 Hey there! I’m a developer powered by coffee, chaos and an infinite loop of refactoring.  
-I'm the founder of **Akira Studios** (we build cool stuff™) and the proud architect behind **AtenaMC**, a Minecraft server where every plugin has trust issues… because I wrote them all from scratch.  
+I'm the founder of **Akira Studios** (we build cool stuff™) and the proud architect behind **McMaster**, a Minecraft server where every plugin has trust issues… because I wrote them all from scratch.  
 Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life choice.
 
 ---
 
-## 🧠 Who I Am (besides a dev with 100+ Chrome tabs open)
+## 🧠 Who I Am (besides a dev with 100+ Projects open and 2 completed)
 
 - ☕ Java loyalist (we’ve had our ups and `NullPointerExceptions`, but we’re working through it)
 - 🐍 Python enthusiast (clean, readable, and doesn't yell at me — usually)
-- 🧠 Currently exploring C* (because I heard debugging segfaults builds character)
+- 🧠 Currently exploring C++ (because I heard debugging segfaults builds character)
 - Builder of systems that sometimes work on the first try — and always have a config file
 
 ---
@@ -49,6 +49,6 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 
 ---
 
-> _“I started with Scratch. Now I scratch my head reading C++.”_
+> _“From drag-and-drop to dropping my sanity — thanks, C++”_
 
 ---
