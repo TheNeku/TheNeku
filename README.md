@@ -17,16 +17,16 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 
 ## 🛠️ What I Do
 
-- 🔧 Custom plugins and software (with a slight obsession for clean architecture)
-- 🧙 Discord bots that go beyond basic commands
-- 🌐 Scalable, localized systems with actual structure™
+- 🔧 Custom plugins (mc) and any kind of software 
+- 🧙 Discord bots 
+- 🌐 Scalable, localized systems with actual structure(™ xD)
 - 🧪 Break things, fix them, and then pretend it was intentional
 
 ---
 
 ## ⚙️ Tech I Argue With
 
-![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,html,css,mysql,sqlite,linux,eclipse,git,github,vscode)
+![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,html,css,mysql,sqlite,redis,linux,git,github)
 
 > Once built a whole system just to avoid using scratch. Zero regrets.
 
