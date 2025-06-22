@@ -11,7 +11,7 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 - ☕ Java loyalist (we’ve had our ups and `NullPointerExceptions`, but we’re working through it)
 - 🐍 Python enthusiast (clean, readable, and doesn't yell at me — usually)
 - 🧠 Currently exploring C++ (because I heard debugging segfaults builds character)
-- Builder of systems that sometimes work on the first try — and always have a config file
+- Builder of systems that sometimes work on the first try — and always have a config file (minecraft syle xD)
 
 ---
 
