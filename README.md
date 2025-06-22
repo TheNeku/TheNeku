@@ -28,7 +28,7 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 
 ![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,html,css,mysql,sqlite,linux,eclipse,git,github,vscode)
 
-> Once built a whole system just to avoid using Essentials. Zero regrets.
+> Once built a whole system just to avoid using scratch. Zero regrets.
 
 ---
 
