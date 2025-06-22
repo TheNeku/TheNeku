@@ -49,6 +49,6 @@ Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life ch
 
 ---
 
-> _“From drag-and-drop to dropping my sanity — thanks, C++”_
+> _“From drag-and-drop to dropping my sanity — thanks”_
 
 ---
