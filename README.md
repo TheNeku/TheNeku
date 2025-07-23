@@ -1,54 +1,57 @@
-# 👋 Yo! I'm Neku
-
-Hey there! I’m a developer powered by coffee, chaos and an infinite loop of refactoring.  
-I'm the founder of **Akira Studios** (we build cool stuff™) and the proud architect behind **McMaster**, a Minecraft server where every plugin has trust issues… because I wrote them all from scratch.  
-Yes, even the config loader. Yes, it supports MiniMessage. Yes, it was a life choice.
+Ecco la **traduzione in italiano** del tuo profilo, mantenendo il tono ironico, tecnico e personale:
 
 ---
 
-## 🧠 Who I Am (besides a dev with 100+ Projects open and 2 completed)
+# 👋 Yo! Sono Neku
 
-- ☕ Java loyalist (we’ve had our ups and `NullPointerExceptions`, but we’re working through it)
-- 🐍 Python enthusiast (clean, readable, and doesn't yell at me — usually)
-- 🧠 Currently exploring C++ (because I heard debugging segfaults builds character)
-- Builder of systems that sometimes work on the first try — and always have a config file (minecraft syle xD)
-
----
-
-## 🛠️ What I Do
-
-- 🔧 Custom plugins (mc) and any kind of software 
-- 🧙 Discord bots 
-- 🌐 Scalable, localized systems with actual structure(™ xD)
-- 🧪 Break things, fix them, and then pretend it was intentional
+Ehi là! Sono uno sviluppatore alimentato da caffè, bibite energetiche e un ciclo infinito di refactoring xD.
+Sono il fondatore di **Oneiric Studios** (costruiamo roba figa™) e l'orgoglioso architetto di **McMaster**, un server Minecraft dove ogni plugin ha problemi di fiducia… perché li ho scritti tutti da zero.
+Sì, anche il loader delle config. Sì, supporta MiniMessage. Sì, è stata una scelta di vita.
 
 ---
 
-## ⚙️ Tech I Argue With
+## Chi Sono (oltre che un dev con 100+ progetti aperti e 2 completati)
 
-![Languages](https://skillicons.dev/icons?i=java,python,cpp,cs,js,ts,html,css,mysql,sqlite,redis,linux,git,github)
+* Dev fedele a Java (abbiamo avuto i nostri alti e i nostri `NullPointerException`, ma ci stiamo lavorando)
+* Appassionato di Python (pulito, leggibile e non mi urla contro — di solito)
+* Sto esplorando il C++ (pare che fare debug dei segfault forgia il carattere)
+* Costruttore di sistemi che **a volte** funzionano al primo colpo — ma **sempre** crashano dopo l'avvio
+---
 
-> Once built a whole system just to avoid using scratch. Zero regrets.
+## Cosa Faccio
+
+* Plugin Minecraft e Software di ogni tipo
+* Bot per Discord
+* Rompo cose, le aggiusto e poi fingo che fosse tutto previsto
 
 ---
 
-## 🎯 Goals
+## Tecnologie con cui Litigo
 
-- Write code that doesn’t scare future me
-- Actually understand C pointers without existential dread
-- Make dev tools that feel like cheating (but legal)
-- Keep learning, building, and occasionally yelling at compilers
+![Linguaggi](https://skillicons.dev/icons?i=java,python,cpp,cs,js,css)
 
----
-
-## 📬 Contact Me
-
-- 💬 Discord: `@theneku`
-- 🐙 GitHub: You're here already, explorer
-- 📦 Projects: In progress... like everything else in dev life
+> Una volta ho costruito un intero sistema solo per non usare Scratch. Zero rimpianti.
 
 ---
 
-> _“From drag-and-drop to dropping my sanity — thanks”_
+## 🎯Obiettivi
+
+* Scrivere codice che spaventi il me del futuro
+* Creare strumenti da dev che sembrano barare (ma legalmente)
+* Continuare a imparare, creare e ogni tanto urlare al compilatore
 
 ---
+
+## 📬 Contattami
+
+* 💬 Discord: `@theneku`
+* 🐙 GitHub: Sei già qui, esploratore
+* 📦 Progetti: In corso... come tutto il resto nella vita di un dev
+
+---
+
+> *“Dai drag-and-drop all’abbandono della sanità mentale — grazie”*
+
+---
+
+Fammi sapere se vuoi la versione markdown pronta per GitHub o con link e badge personalizzati!
