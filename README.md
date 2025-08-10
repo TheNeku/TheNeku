@@ -14,7 +14,7 @@ Nella mia vita
 * Creo bot per Discord
 * Rompo cose, le aggiusto e poi fingo che fosse tutto previsto
 
-Linguaggi in cui so programmare:
+Linguaggi in cui so programmare:  
 ![Linguaggi](https://skillicons.dev/icons?i=java,python,cpp,cs,js,css,unity,assembly)
 
 
