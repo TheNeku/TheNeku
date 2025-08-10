@@ -12,8 +12,8 @@ Creo plugin Minecraft e Software di ogni tipo,
 Creo bot per Discord,  
 Rompo cose, le aggiusto e poi fingo che fosse tutto previsto.
 
-Linguaggi in cui so programmare:  
-![Linguaggi](https://skillicons.dev/icons?i=java,python,cpp,cs,js,css,unity,assembly)
+Linguaggi con cui sono solito litigare:  
+![Linguaggi](https://skillicons.dev/icons?i=java,python,cpp,cs,js,css,assembly)
 
 
 ## Contattami
