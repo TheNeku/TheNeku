@@ -8,5 +8,6 @@ Sto esplorando il C++, pare che fare debug dei segfault forgi il carattere.
 Tendenzialmente rompo cose, le aggiusto e poi fingo che fosse tutto previsto, ma ad onor del vero so  
 creare PL minecraft, bot per discord e inutili script (Il linguaggio varia in base all'umore)
 
-Linguaggi con cui sono solito litigare:  
+Linguaggi con cui sono solito litigare:   
+  
 ![Linguaggi](https://skillicons.dev/icons?i=java,python,cpp,cs,assembly)
